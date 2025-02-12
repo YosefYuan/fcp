@@ -13,7 +13,7 @@ setup(
             "fcp=fcp.main:cli"
         ]
     },
-    author="Your Name",
+    author="Joseph Yuan",
     description="A CLI tool to format input strings and copy to clipboard.",
-    url="https://github.com/yourname/fcp-tool",  # 你的GitHub仓库（可选）
+    url="https://github.com/YosefYuan/fcp"
 )
